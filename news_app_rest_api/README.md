@@ -1,16 +1,30 @@
-# news_app_rest_api
+# News App
 
-A new Flutter project.
+Getx state management is used
 
-## Getting Started
+Dio is used to fetch data from API 
 
-This project is a starting point for a Flutter application.
+News API is used for current data.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/ahmetbekir22/news-app-flutter.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+API link: https://newsapi.org/
+to use app api get an api from the link above. 
+```flutter 
+flutter pub get
+flutter run
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
