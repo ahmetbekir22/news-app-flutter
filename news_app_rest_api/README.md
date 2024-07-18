@@ -15,7 +15,7 @@ git clone https://github.com/ahmetbekir22/news-app-flutter.git
 ## Usage
 
 API link: https://newsapi.org/
-to use app api get an api from the link above. 
+to use app get an api from the link above. 
 ```flutter 
 flutter pub get
 flutter run
